@@ -1,0 +1,26 @@
+# /bin/
+/bin/.sonar
+/bin/app_process
+
+# Gradle or Android Studio output folder
+out
+build
+bin/
+gen/
+obj/
+
+proguard_logs/
+
+# All exported APK
+*.apk
+
+# Auto gen files by Gradle
+.gradle
+
+# All auto gen project setting files 
+*.iml
+
+# Android Studio's auto gen
+local.properties
+project.properties
+.idea
