@@ -5,7 +5,7 @@ Based on the <a href="https://github.com/nmoinvaz/minizip">Minizip library</a> i
 <br>
 Extended API from <a href="https://github.com/aNNiMON/MinizipAndroid">aNNiMON/MinizipAndroid</a> to support nested files anf folders encryption.
 <br>
-Recursibvely run folder tree and encrypt files with AES 256 alghorytm.
+Recursibvely run folder tree and encrypt files with AES 256 algorytm.
 <br> <br> <br>
 Compare to Java solutions like: 
 <br>
